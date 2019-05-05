@@ -8,4 +8,3 @@ def badge_maker_creator(array_names)
     puts "Hello, my name is #{name}."
     badge_maker_creator += 1
   end
-
