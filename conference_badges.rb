@@ -1,4 +1,4 @@
 def badge_maker(name)
-  name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  name = "Arel"
   puts "Hello, my name is #{name}."
 end
