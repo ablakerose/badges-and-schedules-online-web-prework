@@ -5,6 +5,6 @@ end
 def batch_badge_creator(array_names)
   array_names.each do |name|
     return "Hello, my name is #{name}."
-    array_names += 1
+    batch_badge_creator += 1
   end
 end
