@@ -12,8 +12,8 @@ end
 
 def assign_rooms(array_names)
   array_welcome_rooms = []
-  array_names.each do |name|
-    array_welcome_rooms << "Hello, #{name}! You'll be assigned to room #{name}!"
+  array_names.each_with_index do |name, index|
+    array_welcome_rooms << "Hello, #{name}! You'll be assigned to room #{index+1}!"
   end
 
 end
