@@ -25,4 +25,3 @@ def printer(array_names)
     puts name
   end
 end
-end 
