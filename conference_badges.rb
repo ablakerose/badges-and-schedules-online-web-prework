@@ -1,5 +1,6 @@
 def badge_maker(name)
   puts "Hello, my name is #{name}."
+  name=Arel
 end
 
 def badge_maker_creator(array_names)
