@@ -7,5 +7,5 @@ def batch_badge_creator(array_names)
   end
     return "Hello, my name is #{name}."
     batch_badge_creator += 1
-  
+    end
 end
