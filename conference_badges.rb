@@ -16,3 +16,4 @@ def assign_rooms (array_names)
     array_welcome_rooms << "Hello, #{name}! You'll be assigned to room #{name.index}!"
   end
   return array_welcome_rooms
+end
