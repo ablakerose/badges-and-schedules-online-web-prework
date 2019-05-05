@@ -3,4 +3,4 @@ def badge_maker(name)
   name = "Arel"
 end
 
-badge_maker
+return badge_maker
