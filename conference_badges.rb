@@ -10,6 +10,6 @@ def batch_badge_creator(array_names)
   return array_welcome_phrases
 end
 
-def assign_rooms
-  
+def assign_rooms(array_names)
+
 end
