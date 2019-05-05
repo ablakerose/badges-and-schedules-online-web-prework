@@ -9,3 +9,7 @@ def batch_badge_creator(array_names)
   end
   return array_welcome_phrases
 end
+
+def assign_rooms ()
+  array_welcome_rooms= []
+  return "Hello, #{name}! You'll be assigned to room #{room}!"
